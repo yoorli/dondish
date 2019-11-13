@@ -70,6 +70,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:20.0.0'
     implementation files('lib/poi-3.17/poi-3.17.jar')
     implementation 'de.hdodenhof:circleimageview:2.2.0'
+    implementation fileTree(dir: 'C:\\Users\\lyl\\AndroidStudioProjects\\bobdish\\poi-4.1.1', include: ['*.aar', '*.jar'], exclude: [])
 }
 
 apply plugin: 'com.google.gms.google-services'
