@@ -1,3 +1,5 @@
-include ':app'
+include ':app', ':sdk', ':openCVLibrary'
 include ':openCVLibrary310'
+
 rootProject.name='dontest02'
+
