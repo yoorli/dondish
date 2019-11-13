@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475490140990",
+    "firebase_url": "https://dondish-c792f.firebaseio.com",
+    "project_id": "dondish-c792f",
+    "storage_bucket": "dondish-c792f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475490140990:android:bcd4305a67ae69d1a6626f",
+        "android_client_info": {
+          "package_name": "com.example.bobdish.dontest02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475490140990-n5tinbcngnfod6567s5k29l3qrnqde29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6b80RDXLBVVzqyZtJpjpEAqJJbwkNClo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475490140990-n5tinbcngnfod6567s5k29l3qrnqde29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
