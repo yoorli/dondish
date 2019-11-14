@@ -99,16 +99,16 @@ public class LedgerViewFragment extends android.app.Fragment {
         checkPermissions();
 
         // Inflate the layout for this fragment
-        View v = inflater.inflate(android.R.layout.fragment_ledger_view, container, false);
+        View v = inflater.inflate(R.layout.fragment_ledger_view, container, false);
 
-        ibLastMonth = (ImageButton) v.findViewById(android.R.id.ibLastMonth);
-        ibNextMonth = (ImageButton) v.findViewById(android.R.id.ibNextMonth);
-        tvLedgerMonth = (TextView) v.findViewById(android.R.id.tvLedgerMonth);
-        tvTotalincome = (TextView) v.findViewById(android.R.id.tvTotalincome);
-        tvTotalconsume = (TextView) v.findViewById(android.R.id.tvTotalconsume);
-        tvPlusMinus = (TextView) v.findViewById(android.R.id.tvPlusMinus);
-        mRecyclerView = (RecyclerView) v.findViewById(android.R.id.rvLedger);
-        btnExport = (Button) v.findViewById(android.R.id.btnExport);
+        ibLastMonth = (ImageButton) v.findViewById(R.id.ibLastMonth);
+        ibNextMonth = (ImageButton) v.findViewById(R.id.ibNextMonth);
+        tvLedgerMonth = (TextView) v.findViewById(R.id.tvLedgerMonth);
+        tvTotalincome = (TextView) v.findViewById(R.id.tvTotalincome);
+        tvTotalconsume = (TextView) v.findViewById(R.id.tvTotalconsume);
+        tvPlusMinus = (TextView) v.findViewById(R.id.tvPlusMinus);
+        mRecyclerView = (RecyclerView) v.findViewById(R.id.rvLedger);
+        btnExport = (Button) v.findViewById(R.id.btnExport);
         // use this setting to improve performance if you know that changes
         // in content do not change the layout size of the RecyclerView
         mRecyclerView.setHasFixedSize(true);

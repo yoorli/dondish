@@ -35,11 +35,11 @@ public class SMSActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(android.R.layout.activity_sms);
+        setContentView(R.layout.activity_sms);
 
-        tvCountSMS = (TextView) findViewById(android.R.id.tvCountSMS);
-        btnSMSLoad = (Button) findViewById(android.R.id.btnLoadSMS);
-        mRecyclerView = (RecyclerView) findViewById(android.R.id.rvSMS);
+        tvCountSMS = (TextView) findViewById(R.id.tvCountSMS);
+        btnSMSLoad = (Button) findViewById(R.id.btnLoadSMS);
+        mRecyclerView = (RecyclerView) findViewById(R.id.rvSMS);
         // use this setting to improve performance if you know that changes
         // in content do not change the layout size of the RecyclerView
         mRecyclerView.setHasFixedSize(true);

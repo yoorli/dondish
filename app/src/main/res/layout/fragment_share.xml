@@ -4,10 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
-    tools:context="kr.ac.kpu.block.smared.ShareFragment">
+    tools:context="com.example.bobdish.dontest02.ShareFragment">
 
 
-    <fragment android:name="kr.ac.kpu.block.smared.MainFragment"
+    <fragment android:name="com.example.bobdish.dontest02.MainFragment"
         android:id="@+id/shareledger"
         android:layout_below="@+id/sharenavi"
         android:layout_width="match_parent"

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="kr.ac.kpu.block.smared.TabActivity">
+    tools:context="com.example.bobdish.dontest02.TabActivity">
 
 
     <LinearLayout
@@ -17,7 +17,7 @@
 
         <fragment
             android:id="@+id/list"
-            android:name="kr.ac.kpu.block.smared.MainFragment"
+            android:name="com.example.bobdish.dontest02.MainFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </LinearLayout>

@@ -9,7 +9,7 @@
     android:layout_height="match_parent"
     android:clickable="true"
     android:orientation="vertical"
-    tools:context="kr.ac.kpu.block.smared.ShareLedgerRegFragment">
+    tools:context="com.example.bobdish.dontest02.ShareLedgerRegFragment">
 
     <!-- TODO: Update blank fragment layout -->
 

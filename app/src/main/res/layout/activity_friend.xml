@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
-    tools:context="kr.ac.kpu.block.smared.FriendActivity">
+    tools:context="com.example.bobdish.dontest02.FriendActivity">
 
     <!-- TODO: Update blank fragment layout -->
 

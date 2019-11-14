@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="kr.ac.kpu.block.smared.SMSActivity">
+    tools:context="com.example.bobdish.dontest02.SMSActivity">
 
     <Button
         android:id="@+id/btnLoadSMS"

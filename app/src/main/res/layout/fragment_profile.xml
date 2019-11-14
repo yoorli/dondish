@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
-    tools:context="kr.ac.kpu.block.smared.ProfileFragment"
+    tools:context="com.example.bobdish.dontest02.ProfileFragment"
     android:background="@color/grayLight"
     android:orientation="vertical">
 

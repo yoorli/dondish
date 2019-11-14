@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
-    tools:context="kr.ac.kpu.block.smared.LedgerStatFragment">
+    tools:context="com.example.bobdish.dontest02.LedgerStatFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <ImageButton
@@ -19,7 +19,7 @@
         android:id="@+id/tvLedgerMonth2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/ibLastMonth"
+        android:layout_toRightOf="@id/ibLastMonth2"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
         android:layout_marginTop="9dp"
